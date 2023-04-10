@@ -1,5 +1,3 @@
-# MATRICES MULTIPLICATION
-
 # THIS IS A CODING EXERCISE FOR THE IMD0036 CLASS
 
 - This Program works with paralel programming, using the logic of one process for each element in the
