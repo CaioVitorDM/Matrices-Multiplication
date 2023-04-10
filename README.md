@@ -8,6 +8,6 @@ form, using natural programming logic.
 
 - To compile use g++ -o **executable name** -std=c++17 **program name.cpp**
 
-- To run use ./**program name** **number of rows of A** **number of cols of A** **number of rows of B** **number of cols of B**
+- To run use ./**program-name** **number-of-rows-of-A** **number-of-cols-of-A** **number-of-rows-of-B** **number-of-cols-of-B**
 
 # This coding is authored by @Caio Vitor Dantas Machado and  @Adilson Paulo da Silva Aquino
