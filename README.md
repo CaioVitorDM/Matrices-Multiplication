@@ -2,7 +2,7 @@
 - This was made using C++.
 
 - There are three Programs, one using the logic of a process for each element in the
-resultant matrix, one the logic of a process for each line in the resultant matrix and a one using
+resultant matrix, one the logic of a process for each line in the resultant matrix and one using
 a sequential form, following natural programming logic.
 
 - The goal of this exercise is to show the difference between the three forms and the gains using paralel 
